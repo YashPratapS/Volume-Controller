@@ -1,2 +1,2 @@
 # Volume-Controller
-Using open cv a project is made to control the volume of your pc using hand gestures.
+A project was developed utilizing OpenCV to enable the control of computer volume through hand gestures. This innovative application leverages computer vision techniques to detect and interpret specific hand movements, which are then translated into commands for adjusting the system's volume. By integrating OpenCV's robust image processing capabilities with gesture recognition algorithms, the project provides an intuitive and touch-free method for volume control, enhancing user interaction with their computer.
